@@ -2,8 +2,8 @@
 title: Bayesian Statistical Methods
 date: "2026-01-05"
 enddate: "2026-05-01"
-last_date: "2022-08-25"
-last_enddate: "2023-05-05"
+last_date: "2026-01-05"
+last_enddate: "2026-05-01"
 publishdate: "2022-12-10"
 host: "Vanderbilt University"
 keywords:
