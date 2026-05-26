@@ -1,7 +1,7 @@
 ---
 title: "Climate and Society: Drowning Cities"
 author:
-  - Jonathan Gilligan
+  - Jonathan Magnolia Gilligan
   - Betsey Robinson
 date: "2027-01-11"
 enddate: "2027-05-06"

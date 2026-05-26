@@ -3,7 +3,7 @@ title: "_Pearl_: An Opera"
 date: "2012-08-13"
 writing_credit:
   - "Composer [Amy Scurria](http://www.amyscurria.com/)"
-  - "Libretto by Carol Gilligan and Jonathan Gilligan"
+  - "Libretto by Carol Gilligan and Jonathan Magnolia Gilligan"
 performances:
   - date: "Aug 5, 2013"
     description: "Concert performance at Shakespeare & Company (Lenox MA)"

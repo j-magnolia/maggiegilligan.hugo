@@ -1,6 +1,6 @@
 ---
 title: "Tethered resilience: A new concept for understanding climate change, migration, and adaptation"
-author: 'Jonathan Gilligan'
+author: 'Jonathan Magnolia Gilligan'
 date: '2025-11-25'
 slug: tethered-reilience
 categories:

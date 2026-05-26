@@ -2,7 +2,7 @@
 title: "_The Scarlet Letter_: A Play"
 date: "2005-08-07"
 writing_credit:
-  - "by Carol Gilligan and Jonathan Gilligan"
+  - "by Carol Gilligan and Jonathan Magnolia Gilligan"
 performances:
   - date: "[Oct. 10--12 2019](http://theatre.fullcoll.edu/event_season_detail.php?calendarid=1579)"
     description: "Fullerton College Classic Dramatic Series (Fullerton CA)"

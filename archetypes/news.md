@@ -1,6 +1,6 @@
 ---
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
-author: "Jonathan Gilligan"
+author: "J. Magnolia Gilligan"
 date: {{ .Date }}
 # pub_link: 
 # publishdate:
