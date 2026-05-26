@@ -2,7 +2,7 @@
 """
 Created on Tue Jun 13 18:52:00 2017
 
-@author: Jonathan Gilligan
+@author: Jonathan Magnolia Gilligan
 """
 # import pybtex as pt
 import os

@@ -11,9 +11,11 @@ pages:
   - rm -rf public
   # - fgrep -ir baseurl *
   # - fgrep -ir jonathangilligan.org *
+  # - fgrep -ir magnoliagilligan.org *
   - hugo --ignoreCache
   # - fgrep -ir .min.css *
   # - fgrep -ir jg_web.pages.jgilligan.org/jonathangilligan_org/ *
+  # - fgrep -ir jg_web.pages.jgilligan.org/magnoliagilligan_org/ *
   artifacts:
     paths:
     - public

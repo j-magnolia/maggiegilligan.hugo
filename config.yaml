@@ -9,7 +9,7 @@ publishdir: "public"
 builddrafts: false
 pygmentsuseclasses: true
 pygmentsStyle: "zenburn"
-baseURL: "https://www.jonathangilligan.org/"
+baseURL: "https://www.magnoliagilligan.org/"
 indexes:
   category: "categories"
   tag: "tags"
@@ -156,8 +156,8 @@ params:
       icon: "envelope"
       icon_pack: "fa"
       icon_weight: "s"
-      link: "mailto:jonathan@jgilligan.org"
-      text: "jonathan@jgilligan.org"
+      link: "mailto:magnolia@jgilligan.org"
+      text: "magnolia@jgilligan.org"
       on_site: "Proton mail"
     signal:
       priority: 4

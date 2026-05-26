@@ -7,7 +7,7 @@ date: '2017-05-16'
 slug: "drinking-water-bangladesh"
 banner:
   image: "bangladeshi_woman_drawing_water.jpg"
-  credit: "Photo credit: Jonathan Gilligan/Vanderbilt"
+  credit: "Photo credit: J. Magnolia Gilligan/Vanderbilt"
 categories:
   - news
 tags:
@@ -34,7 +34,7 @@ According to the latest national assessment, 85 percent of the people in Banglad
 The paper describing their results appeared last June in the [International Journal of Environmental Health Research](https://doi.org/10.1080/09603123.2016.1194383). It is available for free to mark this year’s [World Water Day](http://www.worldwaterday.org/) on March 22.
 
 ![Water gatherers in Bangladesh](/news/img/drinking-water-bangladesh/water_gatherers_bangladesh.jpg)
-<div class="image-credit"><span class="image-credit">Photo credit: Jonathan Gilligan/Vanderbilt</span></div>
+<div class="image-credit"><span class="image-credit">Photo credit: J. Magnolia Gilligan/Vanderbilt</span></div>
 
 Working with Bangladeshi collaborators, team members spent many weeks in southwest Bangladesh over several years, conducting interviews and surveys to learn where households got their water. They also measured water quality in both rainy and dry seasons.
 
