@@ -1,4 +1,4 @@
 [submodule "themes/hugo-finisterre"]
 	path = themes/hugo-finisterre
-	url = https://github.com/jonathan-g/hugo-finisterre.git
+	url = git@github.com:j-magnolia/hugo-finisterre.git
 	branch = main
