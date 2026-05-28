@@ -4,7 +4,7 @@ author: "Aaron J. Freiwald"
 date: '2018-12-21'
 publishdate: '2018-12-21'
 publication: "Good Law | Bad Law"
-pub_link: "https://www.goodlawbadlawpodcast.com/podcasepisodes/2018/12/21/good-law-bad-law-112-lawmakers-may-not-hold-the-key-to-climate-change-w-michael-vandenbergh-amp-jonathan-gilligan"
+pub_link: "https://www.goodlawbadlawpodcast.com/podcasepisodes/2018/12/21/good-law-bad-law-112-lawmakers-may-not-hold-the-key-to-climate-change-w-michael-vandenbergh-amp-j-magnoliailligan"
 slug: good-law-bad-law-podcast
 summary: |
   Michael Vandenbergh and I were interviewed by Aaron J. Freiwald for the
@@ -36,7 +36,7 @@ and me about our book,
 ### Listen
 
 Listen at 
-[Good Law | Bad Law](https://www.goodlawbadlawpodcast.com/podcasepisodes/2018/12/21/good-law-bad-law-112-lawmakers-may-not-hold-the-key-to-climate-change-w-michael-vandenbergh-amp-jonathan-gilligan)
+[Good Law | Bad Law](https://www.goodlawbadlawpodcast.com/podcasepisodes/2018/12/21/good-law-bad-law-112-lawmakers-may-not-hold-the-key-to-climate-change-w-michael-vandenbergh-amp-j-magnoliailligan)
 
 ### Description
 

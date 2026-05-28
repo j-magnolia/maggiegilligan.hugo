@@ -56,7 +56,7 @@ to purely statistical models.
 
 ---
 
-#### [Course web site](https://ees5891.jgilligan.org)
+#### [Course web site](https://ees5891.jmgilligan.org)
 
-#### [Syllabus (PDF)](https://ees5891.jgilligan.org/files/EES_5891-03_Syllabus.pdf)
+#### [Syllabus (PDF)](https://ees5891.jmgilligan.org/files/EES_5891-03_Syllabus.pdf)
 

@@ -14,7 +14,7 @@ indexes:
   category: "categories"
   tag: "tags"
 title: "Jonathan Magnolia Gilligan"
-copyright: "&copy; 2017--25 Jonathan Magnolia Gilligan"
+copyright: "&copy; 2017--26 Jonathan Magnolia Gilligan"
 canonifyUrls: false
 relativeUrls: true
 enableRobotsTXT: true
@@ -156,24 +156,24 @@ params:
       icon: "envelope"
       icon_pack: "fa"
       icon_weight: "s"
-      link: "mailto:magnolia@jgilligan.org"
-      text: "magnolia@jgilligan.org"
+      link: "mailto:magnolia@jmgilligan.org"
+      text: "magnolia@jmgilligan.org"
       on_site: "Proton mail"
     signal:
       priority: 4
       icon: "signal-messenger"
       icon_pack: "fa"
       icon_weight: "b"
-      link: "https://signal.me/#eu/LiaAI8bSgU0l2PqEkWng55C2dz7A2DC3sUxJEIz7Opcj1o9XPEJKU53GDzJ2yQyS"
-      text: "jgilligan.82"
+      link: "https://signal.me/#eu/MBgOhP7hkeHNHETdbbPSnyaIxR24sLUdTLZsrA4zwLk1pSLI601DSI1AiR-M-jOH"
+      text: "jmgilligan.91"
       on_site: "Signal"
     bluesky:
       priority: 5
       icon: "bluesky"
       icon_pack: "fa"
       icon_weight: "b"
-      link: "https://bsky.app/profile/jgilligan.org"
-      text: "@jgilligan.org"
+      link: "https://bsky.app/profile/jmgilligan.org"
+      text: "@jmgilligan.org"
       on_site: "Bluesky"
       rel_me: yes
       social_media: yes
@@ -202,8 +202,8 @@ params:
       icon: "github"
       icon_pack: "fa"
       icon_weight: "b"
-      link: "https://github.com/jonathan-g"
-      text: "jonathan-g"
+      link: "https://github.com/j-magnolia"
+      text: "j-magnolia"
       on_site: "GitHub"
       rel_me: yes
     orcid:

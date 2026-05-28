@@ -52,4 +52,4 @@ at the journal's web site or read
 [the preprint](/files/pubs/pdfs/gilligan_2020_framework_final.pdf) here.
 
 The details of our calculations of the impact of select private governance 
-initiatives are [available on GitHub](https://github.com/jonathan-g/private_governance_framework_si)
+initiatives are [available on GitHub](https://github.com/j-magnolia/private_governance_framework_si)
