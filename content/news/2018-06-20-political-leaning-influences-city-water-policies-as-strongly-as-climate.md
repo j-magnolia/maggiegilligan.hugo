@@ -28,7 +28,7 @@ Their results were [published online](https://agupubs.onlinelibrary.wiley.com/do
 
 The team examined city water policies over the course of four years to create a database of water conservation policies. They also developed an associated index of the number of different categories of policies each city adopted and gathered data on the climate, water sources, population, economy and political leanings of each city and its surrounding metropolitan statistical area—as reflected in the 2008 and 2012 presidential elections.
 
-They created an [interactive map](https://jonathan-g.github.io/vwci) where users can check to see where their own cities rank.
+They created an [interactive map](https://j-magnolia.github.io/vwci) where users can check to see where their own cities rank.
 
 Here are the top 20 listed by number of water policies. Only three lean Republican, indicated in parentheses:
 <div style="margin-top:1rem;margin-bottom:1rem;margin-left:5rem;">

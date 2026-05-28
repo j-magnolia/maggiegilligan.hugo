@@ -2,8 +2,8 @@
 title: Bayesian Statistical Methods
 date: "2026-01-05"
 enddate: "2026-05-01"
-last_date: "2022-08-25"
-last_enddate: "2023-05-05"
+last_date: "2026-01-05"
+last_enddate: "2026-05-01"
 publishdate: "2022-12-10"
 host: "Vanderbilt University"
 keywords:
@@ -56,7 +56,7 @@ to purely statistical models.
 
 ---
 
-#### [Course web site](https://ees5891.jgilligan.org)
+#### [Course web site](https://ees5891.jmgilligan.org)
 
-#### [Syllabus (PDF)](https://ees5891.jgilligan.org/files/EES_5891-03_Syllabus.pdf)
+#### [Syllabus (PDF)](https://ees5891.jmgilligan.org/files/EES_5891-03_Syllabus.pdf)
 

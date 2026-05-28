@@ -25,6 +25,6 @@ time series analysis, and multivariable statistics.
 
 ---
 
-#### [Course web site](https://ees5891.jgilligan.org)
+#### [Course web site](https://ees5891.jmgilligan.org)
 
-#### [Syllabus (PDF)](https://ees5891.jgilligan.org/files/course_files/EES_4891_5891_Syllabus.pdf)
+#### [Syllabus (PDF)](https://ees5891.jmgilligan.org/files/course_files/EES_4891_5891_Syllabus.pdf)

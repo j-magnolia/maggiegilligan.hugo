@@ -45,7 +45,7 @@ what technological responses are being considered to reduce harmful impacts.
 
 ---
 
-#### [Course web site](https://ees2110.jgilligan.org)
+#### [Course web site](https://ees2110.jmgilligan.org)
 
-#### [Syllabus (PDF)](https://ees2110.jgilligan.org/files/EES_2110_syllabus.pdf)
+#### [Syllabus (PDF)](https://ees2110.jmgilligan.org/files/EES_2110_syllabus.pdf)
 
