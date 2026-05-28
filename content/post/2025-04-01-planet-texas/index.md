@@ -1,6 +1,6 @@
 ---
 title: "Keynote talk at Planet Texas 2050 Symposium"
-author: "Jonathan Gilligan"
+author: "Jonathan Magnolia Gilligan"
 date: '2025-03-30'
 slug: planet-texas
 categories:

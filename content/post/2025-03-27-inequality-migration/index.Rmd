@@ -1,6 +1,6 @@
 ---
 title: "Economic inequality plays an important role in environmental migration"
-author: 'Jonathan Gilligan'
+author: 'Jonathan Magnolia Gilligan'
 date: '2025-03-27'
 slug: inequality-migration
 categories:
@@ -13,7 +13,7 @@ bibliography: best-post.bib
 nocite: "@best-2025"
 banner:
   image: "cover.jpg"
-  credit: "Photo: Jonathan Gilligan"
+  credit: "Photo: J. Magnolia Gilligan"
   caption: "Migrants returning to Polder 32 in Dakop Upazilla, Khulna in May 2012, after spending a season working on paddy farms 100 km away. They took their season's pay in bags of rice, which they will use to feed their families until the local harvest comes in. This migration was an adaptation to the loss of local agricultural production following cyclone Aila, which devastated the Polder in 2009."
 ---
 I have a [new paper](/publications/best_2025_Migration_ABM/), 

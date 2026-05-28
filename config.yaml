@@ -9,7 +9,7 @@ publishdir: "public"
 builddrafts: false
 pygmentsuseclasses: true
 pygmentsStyle: "zenburn"
-baseURL: "https://www.jonathangilligan.org/"
+baseURL: "https://www.magnoliagilligan.org/"
 indexes:
   category: "categories"
   tag: "tags"
@@ -103,6 +103,7 @@ params:
   bio_name: "Jonathan Magnolia Gilligan"
   pronouns: "they/them/theirs"
   bio_twitter: "jg_environ"
+  bio_bsky: "jgilligan.org"
   bio_youtube: "UCh3zZ5uI7oZBtpO6kflg_dg"
   cv_file: "gilligan_cv.pdf"
   organization: "Vanderbilt University"
@@ -155,8 +156,8 @@ params:
       icon: "envelope"
       icon_pack: "fa"
       icon_weight: "s"
-      link: "mailto:jonathan@jgilligan.org"
-      text: "jonathan@jgilligan.org"
+      link: "mailto:magnolia@jgilligan.org"
+      text: "magnolia@jgilligan.org"
       on_site: "Proton mail"
     signal:
       priority: 4

@@ -1,12 +1,11 @@
 ---
 title: "Climate and Society: Drowning Cities"
 author:
-  - Jonathan Gilligan
+  - Jonathan Magnolia Gilligan
   - Betsey Robinson
-  - Steve Goodbred
-date: "2020-08-24"
-enddate: "2020-12-04"
-last_date: "2018-08-24"
+date: "2027-01-11"
+enddate: "2027-05-06"
+last_date: "2020-08-24"
 last_enddate: "2020-12-04"
 publishdate: "2020-09-06"
 host: "Vanderbilt University"
@@ -14,7 +13,6 @@ keywords:
   - climate change
   - global warming
   - Betsey Robinson
-  - Steve Goodbred
   - climate and society
   - Vanderbilt University
   - teaching
@@ -33,7 +31,7 @@ centers now also lie in the cross-hairs of climate change, which accelerates
 sea-level rise and alters the frequency and magnitude of flooding and severe
 storms.
 
-This interdisciplinary class will explore legendary floods and the
+This interdisciplinary class, part of Vanderbilt's Exploratory Core, will explore legendary floods and the
 physical and cultural phenomena of the world’s "drowning cities," bringing
 together diverse perspectives from environmental science and the history of
 architecture, engineering, and urbanism.
@@ -46,6 +44,5 @@ New York.
 We will explore different approaches for communicating about climate
 and cities, including interactive mapping.
 
-Team taught by Betsey Robinson (History of Art and Architecture),
-Jonathan Gilligan (Earth & Environmental Sciences), and
-Steve Goodbred (Earth & Environmental Sciences)
+Team taught by Betsey Robinson (History of Art and Architecture)
+and Jonathan Magnolia Gilligan (Earth & Environmental Sciences)

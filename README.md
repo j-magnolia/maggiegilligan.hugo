@@ -1,6 +1,6 @@
 # Personal Web Site
 
-<https://jonathangilligan.org/>
+<https://magnoliagilligan.org/>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bbf72fd4-b6e0-4e81-baef-6babad221dce/deploy-status)](https://app.netlify.com/sites/jonathangilligan/deploys)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
