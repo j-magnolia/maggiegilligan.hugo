@@ -156,8 +156,8 @@ params:
       icon: "envelope"
       icon_pack: "fa"
       icon_weight: "s"
-      link: "mailto:magnolia@jmgilligan.org"
-      text: "magnolia@jmgilligan.org"
+      link: "mailto:magnolia.gilligan@pm.me"
+      text: "magnolia.gilligan@pm.me"
       on_site: "Proton mail"
     signal:
       priority: 4
