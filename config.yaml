@@ -19,6 +19,10 @@ canonifyUrls: false
 relativeUrls: true
 enableRobotsTXT: true
 ignoreFiles: [ "~$", "^\\.", "\\.#", "\\.Rmd$", "_files$", "_cache$", "Corel Auto-Preserve$"]
+security:
+  allowContent:
+  - ".*"
+  enableInlineShortcodes: true
 
 menu:
   main:
