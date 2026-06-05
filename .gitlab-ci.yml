@@ -14,8 +14,8 @@ pages:
   # - fgrep -ir magnoliagilligan.org *
   - hugo --ignoreCache
   # - fgrep -ir .min.css *
-  # - fgrep -ir jg_web.pages.jgilligan.org/jonathangilligan_org/ *
-  # - fgrep -ir jg_web.pages.jgilligan.org/magnoliagilligan_org/ *
+  # - fgrep -ir jg_web.pages.jmgilligan.org/jonathangilligan_org/ *
+  # - fgrep -ir jg_web.pages.jmgilligan.org/magnoliagilligan_org/ *
   artifacts:
     paths:
     - public

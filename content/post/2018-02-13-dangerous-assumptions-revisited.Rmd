@@ -24,18 +24,13 @@ knitr::opts_chunk$set(echo = FALSE,
                       cache = FALSE,
                       message=FALSE, warning=FALSE, error=FALSE)
 
-if (! require(pacman)) {
-  stop("Before proceeding, you must install the pacman package.\n",
-       "In R, run \"install.packages('pacman')\".")
-}
-
-p_load(tidyverse)
-p_load(magrittr)
-p_load(readxl)
-p_load(ggrepel)
-p_load(janitor)
-p_load(knitr)
-p_load_gh("gilligan-ees-3310/kayadata")
+library(tidyverse)
+library(magrittr)
+library(readxl)
+library(ggrepel)
+library(janitor)
+library(knitr)
+library(kayadata)
 
 message("Dep path = ", blogdown::dep_path())
 message("fig.path = ", knitr::opts_chunk$get("fig.path"))

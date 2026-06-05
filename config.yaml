@@ -106,8 +106,7 @@ params:
     year: "2006"
   bio_name: "Jonathan Magnolia Gilligan"
   pronouns: "they/them/theirs"
-  bio_twitter: "jg_environ"
-  bio_bsky: "jgilligan.org"
+  bio_bsky: "jmgilligan.org"
   bio_youtube: "UCh3zZ5uI7oZBtpO6kflg_dg"
   cv_file: "gilligan_cv.pdf"
   organization: "Vanderbilt University"
@@ -120,7 +119,7 @@ params:
   mhchem: true
   avatar: "avatar.jpg"
   front_page_img: "/files/headshots/Gilligan_Jonathan_2024_close_small.jpg"
-  email: "jonathan.gilligan@vanderbilt.edu"
+  email: "j.magnolia.gilligan@vanderbilt.edu"
   pubs_count: 4
   teach_count: 2
   post_count: 2
@@ -153,8 +152,8 @@ params:
       icon: "envelope"
       icon_pack: "fa"
       icon_weight: "s"
-      link: "mailto:jonathan.gilligan@vanderbilt.edu"
-      text: "jonathan.gilligan@vanderbilt.edu"
+      link: "mailto:j.magnolia.gilligan@vanderbilt.edu"
+      text: "j.magnolia.gilligan@vanderbilt.edu"
     email2:
       priority: 3
       icon: "envelope"
