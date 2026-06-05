@@ -2,7 +2,7 @@
 
 <https://magnoliagilligan.org/>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/bbf72fd4-b6e0-4e81-baef-6babad221dce/deploy-status)](https://app.netlify.com/sites/jonathangilligan/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bbf72fd4-b6e0-4e81-baef-6babad221dce/deploy-status)](https://app.netlify.com/projects/maggiegilligan/deploys)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 The site is hosted by Netlify and built with Hugo, using my [`hugo-finisterre`](https://github.com/j-magnolia/hugo-finisterre)
