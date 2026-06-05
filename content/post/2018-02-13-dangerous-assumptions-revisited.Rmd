@@ -507,5 +507,5 @@ while saving money by systematically pursuing inefficiencies.
 
 # Code
 
-The R code for the analysis in this post is available at <https://github.com/jonathan-g/jonathangilligan.hugo/blob/master/content/post/2018-02-13-dangerous-assumptions-revisited.Rmd>
-and an alternate version is available at <https://github.com/jonathan-g/dangerous-assumptions-revisited>
+The R code for the analysis in this post is available at <https://github.com/j-magnolia/maggiegilligan.hugo/blob/master/content/post/2018-02-13-dangerous-assumptions-revisited.Rmd>
+and an alternate version is available at <https://github.com/j-magnolia/dangerous-assumptions-revisited>
