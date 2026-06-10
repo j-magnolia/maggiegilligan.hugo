@@ -149,45 +149,6 @@ references:
   title: Adaptation as mitigation
   type: article-journal
   volume: 38
-- abstract: Artificial intelligence (AI) has the potential to create
-    major economic and social benefits but also to rapidly escalate
-    electricity demand and its associated environmental impacts.
-    Information has been a cornerstone of environmental law for half a
-    century, and this Article argues that providing information to
-    individual, corporate, and other users about the electricity demand
-    and environmental impacts of AI can reduce those impacts without
-    delaying development of the technology. Little is known about how AI
-    large language models (LLMs) compare on these issues, though, and to
-    address this shortcoming the Article provides the first comparison
-    of the outputs of four AI environmental footprint calculators. The
-    Article finds that running the same AI query through all four
-    calculators produces substantial differences in outputs, with one
-    calculator producing an estimate more than 50 times higher than
-    another for the same type of query. These differences suggest that
-    substantial improvements are needed in the disclosure of
-    information, whether through international, national, state, or
-    private standards, to provide reliable estimates of energy use and
-    environmental impacts to users. In turn, more accurate, easily
-    available information can create incentives for reducing the costs,
-    energy demand, and environmental impacts of AI even in a
-    deregulatory era.
-  author:
-  - family: Vandenbergh
-    given: Michael P.
-  - family: Thorpe
-    given: Ethan Ickovics
-  - family: Gilligan
-    given: Jonathan M.
-  container-title: Michigan Journal of Environmental and Administrative
-    Law
-  doi: 10.2139/ssrn.5400891
-  id: "vandenbergh:2025:ai-footprint"
-  issued: 2026-12-29
-  number-of-pages: 33
-  status: in press
-  title: The energy and environmental footprint of AI
-  type: article-journal
-  volume: 15
 - abstract: This Article explores the assumptions that underly
     projections of extraordinary growth in artificial intelligence
     (AI)-driven data center energy demand, and it identifies the
@@ -228,6 +189,50 @@ references:
   status: in press
   title: Unplugging the artificial intelligence energy emergency
   type: article-journal
+- abstract: Artificial intelligence (AI) has the potential to create
+    major economic and social benefits, but also to rapidly escalate
+    electricity demand and its associated environmental impacts.
+    Information availability has been a cornerstone of environmental law
+    for half a century, and this Article argues that providing
+    information to individual, corporate, and other users about the
+    electricity demand and environmental impacts of AI can reduce those
+    impacts without delaying development of the technology. Little is
+    known about how different large language models (LLMs) compare on
+    these metrics, though. To address whether users have access to the
+    information necessary to address this shortcoming, the Article
+    provides the first comparison of the outputs of four AI
+    environmental footprint calculators. The Article finds that
+    inputting the same AI query into all four calculators produces
+    substantial differences in footprint estimates, with one calculator
+    producing an estimate more than 50 times higher than another for the
+    same type of query. These differences suggest that substantial
+    improvements are needed in the disclosure of AI model information,
+    whether through international, national, state, or private
+    standards, to provide reliable estimates of energy use and
+    environmental impacts to users. In turn, more accurate, easily
+    available information can create incentives for reducing the costs,
+    energy demand, and environmental impacts of AI even in a
+    deregulatory era.
+  author:
+  - family: Vandenbergh
+    given: Michael P.
+  - family: Thorpe
+    given: Ethan Ickovics
+  - family: Gilligan
+    given: Jonathan M.
+  container-title: Michigan Journal of Environmental and Administrative
+    Law
+  doi: 10.2139/ssrn.5400891
+  id: "vandenbergh:2026:ai-footprint"
+  issue: 2
+  issued: 2026-06-10
+  number-of-pages: 33
+  page: 194-231
+  status: published
+  title: The energy and environmental footprint of AI
+  type: article-journal
+  url: "https://repository.law.umich.edu/mjeal/vol15/iss2/3/"
+  volume: 15
 - abstract: Rising temperature and elevated CO2 concentrations lead to
     extended growing seasons and enhanced vegetation greenness in
     terrestrial ecosystems, especially across the Northern Hemisphere.
