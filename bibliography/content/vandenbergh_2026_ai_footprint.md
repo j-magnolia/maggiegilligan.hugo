@@ -1,5 +1,4 @@
 ---
-DOI: 10.2139/ssrn.5400891
 author:
 - family: Vandenbergh
   given: Michael P.
@@ -20,6 +19,7 @@ issued:
   year: 2026
 page: 194-231
 pub_type: article-journal
+pub_url: https://repository.law.umich.edu/mjeal/vol15/iss2/3/
 pubdate: '2026-06-10'
 short_author:
 - family: Vandenbergh
