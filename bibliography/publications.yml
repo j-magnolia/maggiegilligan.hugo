@@ -89,7 +89,7 @@ references:
   file:
   - desc: full text
     file: fackler_2026_barriers
-  id: Fackler2026
+  id: fackler:2026:transformative.modeling
   issn: 2524-5287
   issued: 2026-03
   language: en-US
@@ -925,7 +925,7 @@ references:
   doi: 10.1007/s10113-022-01915-1
   file:
   - desc: full text
-    file: best_2022_applying_machine_learning_to.pdf
+    file: best_2022_machine_learning.pdf
   id: best:2022:random.forest
   issued: 2022-03-25
   keyword: posttenure
