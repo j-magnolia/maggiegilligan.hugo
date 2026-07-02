@@ -20,6 +20,7 @@ issued:
   year: 2025
 keyword: Climate migration,Bangladesh,migration,ABM,agent-based model,Climate-change
   adaptation,Climate-change impacts
+page: 196
 pub_type: article-journal
 pubdate: '2025-03-12'
 publisher: Nature Publishing Group
