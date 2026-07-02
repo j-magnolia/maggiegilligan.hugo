@@ -117,6 +117,7 @@ params:
     kit: "536cbb4daa"
   mathjax: true
   mhchem: true
+  favicon: "favicon.png"
   avatar: "avatar.jpg"
   front_page_img: "/files/headshots/Gilligan_Jonathan_2024_close_small.jpg"
   email: "j.magnolia.gilligan@vanderbilt.edu"
