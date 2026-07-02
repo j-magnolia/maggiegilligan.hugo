@@ -266,11 +266,13 @@ references:
   id: yin:2026:ozone
   issn: 2041-1723
   issued: 2026-08-01
-  status: in press
+  page: 5445
+  status: published
   title: Ozone mitigates extended growing season and enhanced vegetation greenness
     driven by environmental change
   type: article-journal
   url: https://doi.org/10.1038/s41467-026-71959-y
+  volume: 17
 - abstract: Environmental migration occurs across spatial and temporal scales and
     is influenced by the dynamics of individual and collective human behavior, as
     well as environmental stresses. Agent-based modeling (ABM) has demonstrated potential
@@ -305,6 +307,7 @@ references:
   keyword: Climate migration,Bangladesh,migration,ABM,agent-based model,posttenure,Climate-change
     adaptation,Climate-change impacts
   language: en-US
+  page: 196
   publisher: Nature Publishing Group
   status: published
   title: Economic inequality is a crucial determinant of observed patterns of environmental
@@ -398,11 +401,13 @@ references:
     file: mallick_2025_tethered-resilience.pdf
   id: mallick:2025:tethered.resilience
   issued: 2025-11-25
+  page: 1257-1260
   publisher: Nature Publishing Group
   status: published
   title: Future-making beyond (im)mobility through tethered resilience
   type: article-journal
   url: https://www.nature.com/articles/s41558-025-02506-8
+  volume: 15
 - abstract: Transgender and gender nonconforming (TGnC) people are a primary target
     of the Trump administration. Multiple executive orders seek to erase TGnC protections;
     mandate denial of gender identity; and ban diversity, equity, and inclusion (DEI).

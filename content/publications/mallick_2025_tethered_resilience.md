@@ -83,6 +83,7 @@ issued:
   day: 25
   month: 11
   year: 2025
+page: 1257-1260
 pub_type: article-journal
 pubdate: '2025-11-25'
 publisher: Nature Publishing Group
@@ -161,5 +162,6 @@ short_author:
   given: J.
 status: published
 title: Future-making beyond (im)mobility through tethered resilience
+volume: 15
 ---
 Adaptation to climate change goes beyond the migration-non-migration divide. Families and communities combine mobility with rootedness, drawing on cultural ties, intergenerational learning, and lived knowledge to navigate risks and shape long-term futures.

@@ -10,17 +10,17 @@ author:
 - family: Gilligan
   given: Jonathan
 container_title: Socio-Ecological Practice Research
-date: '2026-03-10'
+date: '2026-03-02'
 file:
 - desc: full text
   file: fackler_2026_barriers
 id: Fackler2026
 issued:
-  day: 10
+  day: 2
   month: 3
   year: 2026
 pub_type: article-journal
-pubdate: '2026-03-10'
+pubdate: '2026-03-02'
 publisher: Springer Science; Business Media LLC
 short_author:
 - family: Fackler
