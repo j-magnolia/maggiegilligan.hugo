@@ -20,18 +20,18 @@ author:
 - family: Tai
   given: Amos P. K.
 container_title: Nature Communications
-date: '2026-08-01'
+date: '2026-04-20'
 file:
 - desc: full text
   file: yin_2026_ozone.pdf
 id: yin_2026_ozone
 issued:
-  day: 1
-  month: 8
+  day: 20
+  month: 4
   year: 2026
 page: 5445
 pub_type: article-journal
-pubdate: '2026-07-02'
+pubdate: '2026-04-20'
 short_author:
 - family: Yin
   given: H.
