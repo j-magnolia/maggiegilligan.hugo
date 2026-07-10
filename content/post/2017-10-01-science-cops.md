@@ -1,7 +1,7 @@
 ---
 title: "Are Cops on the Science Beat?"
 authors:
-  - name: Jonathan Gilligan
+  - name: Maggie Gilligan
 date: '2017-10-01'
 slug: science-cops
 categories:

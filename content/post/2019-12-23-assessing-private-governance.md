@@ -1,7 +1,7 @@
 ---
 title: "A Framework for Assessing Private Climate Governance"
 author:
-  name: "Jonathan Gilligan"
+  name: "Maggie Gilligan"
 date: '2019-12-23'
 slug: private-governance-framework
 categories: [blog post]

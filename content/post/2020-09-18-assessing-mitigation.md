@@ -1,7 +1,7 @@
 ---
 title: "Improving Climate Change Mitigation Analysis"
 author:
-  name: "Jonathan Gilligan"
+  name: "Maggie Gilligan"
 date: '2020-09-18'
 slug: mitigation-analysis
 categories: [blog post]

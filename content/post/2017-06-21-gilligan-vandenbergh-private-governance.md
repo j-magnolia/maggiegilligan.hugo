@@ -1,7 +1,7 @@
 ---
 title: "Government action isn't enough for climate change: The private sector can cut billions of tons of carbon"
 authors:
-  - name: Jonathan Gilligan
+  - name: Maggie Gilligan
   - name: Michael Vandenbergh
 date: '2017-06-21'
 banner:
