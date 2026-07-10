@@ -27,6 +27,7 @@ keywords:
   - political correctness
   - science police
   - Jonathan Gilligan
+  - Maggie Gilligan
   - Keith Kloor
   - Roger Pielke, Jr.
 ---

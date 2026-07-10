@@ -35,6 +35,7 @@ keywords:
   - female composers
   - Carol Gilligan
   - Jonathan Gilligan
+  - Maggie Gilligan
   - Amy Scurria
   - Sara Jobin
   - Maureen O'Flynn

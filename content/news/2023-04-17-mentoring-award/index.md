@@ -4,7 +4,7 @@ pub_link: "https://news.vanderbilt.edu/2023/04/17/margaret-cuninggim-womens-cent
 publication: "Vanderbilt MyVU News"
 publishdate: "2023-04-17"
 author:
-  name: 'Jonathan Gilligan'
+  name: "Maggie Gilligan"
 date: '2023-04-17'
 slug: mentoring-award
 categories:
