@@ -29,6 +29,7 @@ keywords:
   - greenhouse gas emissions reductions
   - greenhouse gas mitigation
   - Jonathan Gilligan
+  - Maggie Gilligan
   - Michael Vandenbergh
   - Vanderbilt Climate Change Research Network
   - Vanderbilt Institute for Energy and Environment

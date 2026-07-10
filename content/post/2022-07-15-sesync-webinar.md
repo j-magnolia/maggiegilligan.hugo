@@ -1,7 +1,7 @@
 ---
 title: Webinar on Incorporating Behavior Change into Socio-Environmental Systems Models
 author:
-  name: 'Jonathan Gilligan'
+  name: "Maggie Gilligan"
 date: '2022-07-15'
 slug: sesync-webinar
 categories:

@@ -1,7 +1,7 @@
 ---
 title: Fulbright Scholar Award
 author:
-  name: 'Jonathan Gilligan'
+  name: "Maggie Gilligan"
 date: '2023-04-17'
 slug: fulbright-scholar-award
 categories:

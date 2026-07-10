@@ -28,6 +28,7 @@ keywords:
   - greenhouse gas mitigation
   - Morrison Prize
   - Jonathan Gilligan
+  - Maggie Gilligan
   - Michael Vandenbergh
   - Vanderbilt Climate Change Research Network
   - Vanderbilt Institute for Energy and Environment
