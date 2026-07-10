@@ -1,7 +1,8 @@
 ---
 title: "Workshop on River Navigability and Inland Shipping in Bangladesh"
 date: '2018-07-27'
-author: "Jonathan Gilligan"
+author:
+  name: "Jonathan Gilligan"
 slug: inland-shipping-workshop
 categories:
 - news

@@ -2,7 +2,8 @@
 title: "Two US Professors meet DU VC"
 publication: "The Financial Express (Dhaka, Bangladesh)"
 pub_link: "https://thefinancialexpress.com.bd/education/two-us-professors-meet-du-vc-1531225623"
-author: "Staff correspondent"
+author:
+  name: "Staff correspondent"
 date: '2018-07-10'
 slug: two-us-professors-meet-du-vc
 summary:

@@ -1,6 +1,7 @@
 ---
 title: Fulbright Scholar Award
-author: 'Jonathan Gilligan'
+author:
+  name: 'Jonathan Gilligan'
 date: '2023-04-17'
 slug: fulbright-scholar-award
 categories:

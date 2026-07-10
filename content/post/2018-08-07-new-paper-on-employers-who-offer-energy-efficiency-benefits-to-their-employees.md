@@ -1,6 +1,7 @@
 ---
 title: New paper on employers who offer energy efficiency benefits to their employees
-author: Jonathan Gilligan
+author:
+  name: Jonathan Gilligan
 date: '2018-08-07'
 slug: employee-energy-benefits
 categories:

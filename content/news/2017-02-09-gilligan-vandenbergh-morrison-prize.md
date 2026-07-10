@@ -1,6 +1,7 @@
 ---
 title: "Gilligan, Vandenbergh win Morrison Prize for climate change article"
-author: Jim Patterson
+author: 
+  name: Jim Patterson
 date: '2017-02-09'
 publication: "Research News at Vanderbilt"
 pub_link: "https://news.vanderbilt.edu/2017/02/09/gilligan-vandenbergh-win-morrison-prize-for-climate-change-article/"

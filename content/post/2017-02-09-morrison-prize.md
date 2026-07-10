@@ -1,6 +1,7 @@
 ---
 title: "Morrison Prize"
-author: "~"
+author:
+  name: "~"
 date: '2017-02-09'
 slug: morrison-prize
 categories:

@@ -102,8 +102,13 @@ markup:
 # googleAnalytics: "UA-101117636-1"
 params:
   AuthorName: "Jonathan Magnolia Gilligan"
+  meta_author:
+    - name: Maggie Gilligan
+    - name: Magnolia Gilligan
+    - name: Jonathan Magnolia Gilligan
+    - name: J. Magnolia Gilligan
   copyright:
-    year: "2006"
+    year: "2026"
   bio_name: "Jonathan Magnolia Gilligan"
   pronouns: "they/them/theirs"
   bio_bsky: "jmgilligan.org"

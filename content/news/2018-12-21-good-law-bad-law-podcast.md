@@ -1,6 +1,7 @@
 ---
 title: "Good Law | Bad Law Podcast"
-author: "Aaron J. Freiwald"
+author:
+  name: "Aaron J. Freiwald"
 date: '2018-12-21'
 publishdate: '2018-12-21'
 publication: "Good Law | Bad Law"
