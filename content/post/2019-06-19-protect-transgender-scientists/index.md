@@ -1,7 +1,7 @@
 ---
 title: Protect Transgender Scientists
 author:
-  name: Jonathan Gilligan
+  name: Maggie Gilligan
 date: '2025-06-19'
 slug: protect-transgender-scientists
 categories:

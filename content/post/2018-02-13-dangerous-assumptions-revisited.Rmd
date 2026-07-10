@@ -1,7 +1,7 @@
 ---
 title: "Dangerous Assumptions Revisited"
 author:
-  name: "Jonathan Gilligan"
+  name: "Maggie Gilligan"
 date: '2018-02-13'
 keywords:
 - climate change
