@@ -1,6 +1,7 @@
 ---
 title: New paper on the sustianability of the Bengal delta
-author: 'Jonathan Gilligan'
+author:
+  name: 'Jonathan Gilligan'
 date: '2023-04-27'
 slug: new-paper-on-sustianability-of-bengal-delta
 categories:

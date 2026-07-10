@@ -1,7 +1,8 @@
 ---
 title: Vanderbilt researchers studying Bangladesh for harbinger of climate change
   impact
-author: "Heidi Hall"
+author: 
+  name: "Heidi Hall"
 publication: "Research News at Vanderbilt"
 pub_link: "https://news.vanderbilt.edu/2017/06/02/vanderbilt-researchers-studying-bangladesh-for-harbinger-of-climate-change-impact/"
 date: '2017-06-02'

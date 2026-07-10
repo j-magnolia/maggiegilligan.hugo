@@ -1,6 +1,7 @@
 ---
 title: Private industry, better messaging can help overcome damage from Paris withdrawal
-author: Heidi Hall
+author: 
+  name: Heidi Hall
 date: '2017-06-02'
 publication: "Research News at Vanderbilt"
 pub_link: "https://news.vanderbilt.edu/2017/06/02/expert-private-industry-better-messaging-can-help-overcome-damage-from-paris-withdrawal/"

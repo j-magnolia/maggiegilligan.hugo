@@ -1,6 +1,7 @@
 ---
 title: "This past winter in Nashville was unusually warm and rainy. And it looks like spring will be, too."
-author: Mariah Timms
+author:
+  name: Mariah Timms
 date: '2019-03-20'
 slug: climate-change-nashville
 publication: "The Tennessean (Nashville)"
@@ -144,5 +145,4 @@ and Gardens.
 
 "We have to listen with the awareness that we're dealing with a changing system 
 now," Ertelt said. "I'm tickled I can grow as many palms in my front yard as I 
-can now, but I'm not sure the cost we’re paying in order for me to be able to 
-do these things is worth it."
+can now, but I'm not sure the cost web

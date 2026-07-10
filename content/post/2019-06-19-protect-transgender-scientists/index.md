@@ -1,6 +1,7 @@
 ---
 title: Protect Transgender Scientists
-author: Jonathan Gilligan
+author:
+  name: Jonathan Gilligan
 date: '2025-06-19'
 slug: protect-transgender-scientists
 categories:

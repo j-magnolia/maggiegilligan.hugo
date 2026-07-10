@@ -1,7 +1,8 @@
 ---
 title: "Scientific and Informed Research Needed on Waterways"
 date: '2018-07-09'
-author: "Staff correspondent"
+author:
+  name: "Staff correspondent"
 publication: "Daily Samakal"
 pub_link: "http://en.samakal.com/environment/article/180788/scientific-and-informed-research-needed-on-waterways"
 slug: samakal-waterways-workshop

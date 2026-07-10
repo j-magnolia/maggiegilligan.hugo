@@ -1,6 +1,7 @@
 ---
 title: Urban Water Conservation Policies in the United States
-author: "Jonathan Gilligan"
+author:
+  name: "Jonathan Gilligan"
 date: '2018-06-12'
 slug: water-conservation-policies
 draft: false

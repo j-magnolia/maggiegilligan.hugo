@@ -1,6 +1,7 @@
 ---
 title: "Beyond Politics is one of the top environmental books of the last 50 years"
-author: "Jonathan Gilligan"
+author:
+  name: "Jonathan Gilligan"
 publication: "Environmental Forum"
 date: '2019-12-23'
 slug: top-books

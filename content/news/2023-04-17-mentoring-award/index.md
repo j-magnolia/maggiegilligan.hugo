@@ -3,7 +3,8 @@ title: Mentoring Award
 pub_link: "https://news.vanderbilt.edu/2023/04/17/margaret-cuninggim-womens-center-presents-annual-awards-to-five-vanderbilt-community-members/"
 publication: "Vanderbilt MyVU News"
 publishdate: "2023-04-17"
-author: 'Jonathan Gilligan'
+author:
+  name: 'Jonathan Gilligan'
 date: '2023-04-17'
 slug: mentoring-award
 categories:
