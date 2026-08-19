@@ -107,6 +107,34 @@ references:
     transformative model building for sustainable infrastructure in the
     Southeastern U.S.
   type: article-journal
+- author:
+  - family: Sultana
+    given: Zakia
+  - family: Mees
+    given: Heleen L. P.
+  - family: Mallick
+    given: Bishawjit
+  - family: Kelman
+    given: Ilan
+  - family: Gilligan
+    given: J. Magnolia
+  - family: Castro
+    given: Brianna
+  - family: Hossain
+    given: Shanawez
+  - family: Driessen
+    given: Peter P. J.
+  - family: Bailey
+    given: Ajay
+  container-title: Nature Climate Change
+  doi: 10.1038/s41558-026-02728-4
+  id: Sultana2026
+  issn: 1758-6798
+  issued: 2026-08
+  publisher: Springer Science; Business Media LLC
+  status: published
+  title: Bringing justice to informal adaptation to heat stress
+  type: article-journal
 - abstract: "The damage from wildfires and hurricanes in recent years
     has resulted in extensive emergency and longer-term responses. This
     Article identifies an overlooked and inconvenient truth about these
@@ -2646,7 +2674,7 @@ references:
   isbn: 978-1-4673-9741-4
   issued: 2015
   keyword: tenuretrack
-  note: 00000
+  note: "00000"
   page: 3174-3175
   publisher: IEEE Press
   publisher-place: Piscataway, NJ, USA
@@ -2737,7 +2765,7 @@ references:
   isbn: 978-1-4673-9741-4
   issued: 2015
   keyword: tenuretrack
-  note: 00000
+  note: "00000"
   page: 2752-2763
   publisher: IEEE Press
   publisher-place: Piscataway, NJ, USA
