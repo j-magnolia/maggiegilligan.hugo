@@ -120,7 +120,7 @@ params:
   fontawesomePro:
     key: "sha384-rqn26AG5Pj86AF4SO72RK5fyefcQ/x32DNQfChxWvbXIyXFePlEktwD18fEz+kQU"
     kit: "536cbb4daa"
-  mastodonLink: "https://tech.lgbt/@j_magnolia"
+  mastodon_link: "https://tech.lgbt/@j_magnolia"
   mathjax: true
   mhchem: true
   favicon: "favicon.png"
