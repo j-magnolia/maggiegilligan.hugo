@@ -13,14 +13,14 @@ container_title: Georgetown Environmental Law Review
 date: '2026-12-30'
 file:
 - desc: full text
-  file: vandenbergh_2025_adaptation_mitigation.pdf
-id: vandenbergh_2025_adaptation_mitigation
+  file: vandenbergh_2026_adaptation_mitigation.pdf
+id: vandenbergh_2026_adaptation_mitigation
 issued:
   day: 30
   month: 12
   year: 2026
 pub_type: article-journal
-pubdate: '2026-08-19'
+pubdate: '2026-11-05'
 short_author:
 - family: Vandenbergh
   given: M.P.
