@@ -8,18 +8,18 @@ author:
 - family: Camp
   given: Janey
 container_title: Applied Geography
-date: '2024-08-19'
+date: '2024-08-05'
 file:
 - desc: full text
   file: he_2024_dasymetric.pdf
 id: he_2024_dasymetric
 issued:
-  day: 19
+  day: 5
   month: 8
   year: 2024
 page: 103333
 pub_type: article-journal
-pubdate: '2024-08-19'
+pubdate: '2024-08-05'
 publisher: Elsevier BV
 short_author:
 - family: He

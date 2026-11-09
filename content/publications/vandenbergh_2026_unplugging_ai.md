@@ -12,17 +12,18 @@ author:
 - family: Williams
   given: Mark J.
 container_title: Texas Environmental Law Journal
-date: '2026-12-26'
+date: '2026-09-26'
 file:
 - desc: full text
-  file: vandenbergh_2025_unplugging_ai.pdf
-id: vandenbergh_2025_unplugging_ai
+  file: vandenbergh_2026_unplugging_ai.pdf
+id: vandenbergh_2026_unplugging_ai
 issued:
   day: 26
-  month: 12
+  month: 9
   year: 2026
+page: 37-86
 pub_type: article-journal
-pubdate: '2026-08-19'
+pubdate: '2026-09-26'
 short_author:
 - family: Vandenbergh
   given: M.P.
@@ -36,7 +37,8 @@ short_author:
   given: M.J.
 ssrn: '571522'
 ssrn_id: '571522'
-status: in press
+status: published
 title: Unplugging the artificial intelligence energy emergency
+volume: 56
 ---
 This Article explores the assumptions that underly projections of extraordinary growth in artificial intelligence (AI)-driven data center energy demand, and it identifies the potential for reducing consumer and corporate energy costs and demand through energy and environmental disclosures. The Article explores AI-driven electricity demand assumptions by examining the history of electricity demand over-predictions and by proposing research to address the over-prediction bias. It then identifies viable initiatives that may be able to shift the timing or amount of demand, and it eschews the tendency to propose government legislative or regulatory interventions on AI use or emissions that are infeasible for the foreseeable future. Focusing on household behavior, it identifies examples of successful disclosure programs and presents exploratory new empirical data to explain how electricity use and environmental disclosures have the potential to shift consumer behavior. Turning to corporate behavior, it then explore corporate environmental commitments and discusses ways to enhance the gap-filling role of these commitments. The Article concludes by identifying additional research initiatives to better understand and address the role of information in addressing the energy and environmental challenges arising from AI-driven electricity demand.
