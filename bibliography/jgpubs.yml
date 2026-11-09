@@ -725,6 +725,39 @@ references:
     mapping
   type: article-journal
   volume: 169
+- abstract: This project aims to fill such gaps by developing a model
+    for calculating a Social Fabric Index (SoFI) using publicly
+    available data that is both replicable and scalable. To test the
+    model's applicability and robustness, it was applied to a case study
+    area and subjected to uncertainty analysis and global sensitivity
+    analysis. The overall objective of this project is to evaluate the
+    unintended consequences of flood mitigation activities (i.e., buyout
+    programs) represented as community costs of measures such as
+    residential home buyouts. While buyouts are used in both coastal and
+    inland communities as a mitigation approach, this study is focused
+    primarily on a case study of an inland riverine community because an
+    inland community may have more alternatives for mitigation than
+    coastal areas (i.e., relocation and elevation may be more amenable
+    options in some inland areas).
+  author:
+  - family: Camp
+    given: Janey V.
+  - family: Gilligan
+    given: Jonathan
+  - family: He
+    given: Bowen
+  id: camp_2023_flood_mitigation
+  issued: 2023-03-01
+  keyword: posttenure
+  number-of-pages: 52
+  publisher: "MarTREC: Maritime Transportation Research & Education
+    Center"
+  status: published
+  title: The unintended consequences of flood mitigation along inland
+    waterways---A look at resilience and social vulnerabilities through
+    a case study analysis
+  type: report
+  url: "https://rosap.ntl.bts.gov/view/dot/67296"
 - abstract: Indices of socio-environmental vulnerability, resilience,
     and sustainability are well-established in assessing, mitigating,
     and planning for natural hazards in mitigation. Although there are
@@ -2979,6 +3012,58 @@ references:
   title: Farming practices and anthropogenic delta dynamics
   type: paper-conference
   volume: 358
+- abstract: In recent decades, the concept of sustainability has emerged
+    as a guiding principle for public and private institutions.
+    Sustainability emphasizes decision-making that secures positive,
+    long-term economic, social and environmental benefits. A broad range
+    of factors pose barriers or threats to achieving sustainability
+    objectives. Climate change is one such threat. Yet changes in
+    climate will interact with other drivers of sustainability including
+    public health, education, and economic development.
+  author:
+  - family: Abkowitz
+    given: Mark
+  - family: Camp
+    given: Janey
+  - family: Chen
+    given: Rachel
+  - family: Dale
+    given: Virginia
+  - family: Dunn
+    given: John
+  - family: De La Torre Ugarte
+    given: Daniel
+  - family: Fu
+    given: Joshua
+  - family: Gilligan
+    given: Jonathan
+  - family: He
+    given: Qiang
+  - family: Kirschke
+    given: David
+  - family: Larsen
+    given: Dan
+  - family: Parish
+    given: Esther
+  - family: Preston
+    given: Benjamin
+  - family: Schwartz
+    given: John
+  - family: Vergara
+    given: Alfredo
+  - family: Wesh
+    given: Beau
+  - family: Wilbanks
+    given: Tom
+  id: abkowitz_2012_sustainable_tn
+  issued: 2012-08-01
+  keyword: posttenure
+  publisher: Sustainable Tennessee
+  status: published
+  title: "Sustaining tennessee in the face of climate change: Grand
+    challenges and great opportunities"
+  title-short: Sustaining tennessee in the face of climate change
+  type: report
 - abstract: "The individual and household sector accounts for roughly 40
     percent of United States energy use and carbon dioxide emissions,
     yet the laws and policies directed at reductions from this sector
