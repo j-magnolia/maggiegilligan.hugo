@@ -20,14 +20,14 @@ author:
 - family: Bailey
   given: Ajay
 container_title: Nature Climate Change
-date: '2026-08-09'
+date: '2026-08-25'
 id: Sultana2026
 issued:
-  day: 9
+  day: 25
   month: 8
   year: 2026
 pub_type: article-journal
-pubdate: '2026-08-09'
+pubdate: '2026-08-25'
 publisher: Springer Science; Business Media LLC
 short_author:
 - family: Sultana

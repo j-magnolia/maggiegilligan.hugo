@@ -1,5 +1,4 @@
 ---
-DOI: 10.2139/ssrn.5381597
 author:
 - family: Vandenbergh
   given: Michael P.
@@ -10,17 +9,19 @@ author:
 - family: Gilligan
   given: Jonathan M.
 container_title: Georgetown Environmental Law Review
-date: '2026-12-30'
+date: '2026-11-23'
 file:
 - desc: full text
   file: vandenbergh_2026_adaptation_mitigation.pdf
 id: vandenbergh_2026_adaptation_mitigation
 issued:
-  day: 30
-  month: 12
+  day: 23
+  month: 11
   year: 2026
+page: 1-32
 pub_type: article-journal
-pubdate: '2026-11-09'
+pub_url: https://www.law.georgetown.edu/environmental-law-review/in-print/volume-38-issue-1-fall-2025/adaptation-as-mitigation/
+pubdate: '2026-11-23'
 short_author:
 - family: Vandenbergh
   given: M.P.
@@ -32,7 +33,7 @@ short_author:
   given: J.M.
 ssrn: '5381597'
 ssrn_id: '5381597'
-status: in press
+status: published
 title: Adaptation as mitigation
 volume: 38
 ---

@@ -156,16 +156,17 @@ references:
   - family: Gilligan
     given: Jonathan M.
   container-title: Georgetown Environmental Law Review
-  doi: 10.2139/ssrn.5381597
   file:
   - desc: full text
     file: vandenbergh_2026_adaptation_mitigation.pdf
   id: vandenbergh:2026:adaptation-mitigation
-  issued: 2026-12-30
+  issued: 2026-11-23
+  page: 1-32
   ssrn: '5381597'
-  status: in press
+  status: published
   title: Adaptation as mitigation
   type: article-journal
+  url: https://www.law.georgetown.edu/environmental-law-review/in-print/volume-38-issue-1-fall-2025/adaptation-as-mitigation/
   volume: 38
 - abstract: Artificial intelligence (AI) has the potential to create major economic
     and social benefits, but also to rapidly escalate electricity demand and its associated
